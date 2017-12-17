@@ -1,0 +1,23 @@
+{
+  "name": "api-rest-ship-btc",
+  "version": "0.1.0",
+  "description": "Api rest para plataforma de bitcoins ship-btc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "juancamilovaes",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "create-react-app": "^1.4.3",
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "express-session": "^1.14.1",
+    "mongoose": "^4.8.3",
+    "nodemailer": "^4.0.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
